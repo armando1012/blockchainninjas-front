@@ -1,0 +1,13 @@
+D:\Blockchain Ninjas\Fuentes\BCN.SITIO\BCN.DOCS\bin\Debug\BCN.DOCS.dll
+D:\Blockchain Ninjas\Fuentes\BCN.SITIO\BCN.DOCS\bin\Debug\BCN.DOCS.pdb
+D:\Blockchain Ninjas\Fuentes\BCN.SITIO\BCN.DOCS\bin\Debug\Telerik.Reporting.dll
+D:\Blockchain Ninjas\Fuentes\BCN.SITIO\BCN.DOCS\bin\Debug\Telerik.Reporting.pdb
+D:\Blockchain Ninjas\Fuentes\BCN.SITIO\BCN.DOCS\bin\Debug\Telerik.Reporting.xml
+D:\Blockchain Ninjas\Fuentes\BCN.SITIO\BCN.DOCS\obj\Debug\BCN.DOCS.csprojAssemblyReference.cache
+D:\Blockchain Ninjas\Fuentes\BCN.SITIO\BCN.DOCS\obj\Debug\BCN.DOCS.Pasaporte.resources
+D:\Blockchain Ninjas\Fuentes\BCN.SITIO\BCN.DOCS\obj\Debug\BCN.DOCS.csproj.GenerateResource.cache
+D:\Blockchain Ninjas\Fuentes\BCN.SITIO\BCN.DOCS\obj\Debug\BCN.DOCS.dll.licenses
+D:\Blockchain Ninjas\Fuentes\BCN.SITIO\BCN.DOCS\obj\Debug\BCN.DOCS.csproj.CoreCompileInputs.cache
+D:\Blockchain Ninjas\Fuentes\BCN.SITIO\BCN.DOCS\obj\Debug\BCN.DOCS.csproj.CopyComplete
+D:\Blockchain Ninjas\Fuentes\BCN.SITIO\BCN.DOCS\obj\Debug\BCN.DOCS.dll
+D:\Blockchain Ninjas\Fuentes\BCN.SITIO\BCN.DOCS\obj\Debug\BCN.DOCS.pdb

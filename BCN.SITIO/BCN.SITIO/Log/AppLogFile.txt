@@ -1,0 +1,70 @@
+ERROR 2018-09-23 00:57:36,664 26797ms Default                GeneraPasaporte    - System.Threading.ThreadAbortException: Subproceso anulado.
+   en System.Threading.Thread.AbortInternal()
+   en System.Threading.Thread.Abort(Object stateInfo)
+   en System.Web.HttpResponse.AbortCurrentThread()
+   en System.Web.HttpResponse.End()
+   en BCN.SITIO.Clases.DescargaArchivos.DescargaArchivoBytes(Byte[] contenido, String mimetype, String nombre_archivo, String extension, List`1 cookies) en d:\Blockchain Ninjas\Fuentes\BCN.SITIO\BCN.SITIO\Clases\DescargaArchivos.cs:línea 43
+   en BCN.SITIO.Default.GeneraPasaporte(String numPasaporte, String apellidos, String nombre, String nacionalidad, String fechaNacimiento, String cedulaIdentidad, Char Sexo, String lugarNacimiento, String fechaEmision, String fechaVencimiento) en d:\Blockchain Ninjas\Fuentes\BCN.SITIO\BCN.SITIO\Default.aspx.cs:línea 65
+ERROR 2018-09-23 01:00:19,624  4107ms Default                GeneraPasaporte    - System.Threading.ThreadAbortException: Subproceso anulado.
+   en System.Threading.Thread.AbortInternal()
+   en System.Threading.Thread.Abort(Object stateInfo)
+   en System.Web.HttpResponse.AbortCurrentThread()
+   en System.Web.HttpResponse.End()
+   en BCN.SITIO.Clases.DescargaArchivos.DescargaArchivoBytes(Byte[] contenido, String mimetype, String nombre_archivo, String extension, List`1 cookies) en d:\Blockchain Ninjas\Fuentes\BCN.SITIO\BCN.SITIO\Clases\DescargaArchivos.cs:línea 43
+   en BCN.SITIO.Default.GeneraPasaporte(String numPasaporte, String apellidos, String nombre, String nacionalidad, String fechaNacimiento, String cedulaIdentidad, Char Sexo, String lugarNacimiento, String fechaEmision, String fechaVencimiento) en d:\Blockchain Ninjas\Fuentes\BCN.SITIO\BCN.SITIO\Default.aspx.cs:línea 65
+ERROR 2018-09-23 01:01:03,637  3430ms Default                GeneraPasaporte    - System.Threading.ThreadAbortException: Subproceso anulado.
+   en System.Threading.Thread.AbortInternal()
+   en System.Threading.Thread.Abort(Object stateInfo)
+   en System.Web.HttpResponse.AbortCurrentThread()
+   en System.Web.HttpResponse.End()
+   en BCN.SITIO.Clases.DescargaArchivos.DescargaArchivoBytes(Byte[] contenido, String mimetype, String nombre_archivo, String extension, List`1 cookies) en d:\Blockchain Ninjas\Fuentes\BCN.SITIO\BCN.SITIO\Clases\DescargaArchivos.cs:línea 43
+   en BCN.SITIO.Default.GeneraPasaporte(String numPasaporte, String apellidos, String nombre, String nacionalidad, String fechaNacimiento, String cedulaIdentidad, Char Sexo, String lugarNacimiento, String fechaEmision, String fechaVencimiento) en d:\Blockchain Ninjas\Fuentes\BCN.SITIO\BCN.SITIO\Default.aspx.cs:línea 65
+ERROR 2018-09-23 01:02:00,702  4040ms Default                GeneraPasaporte    - System.Threading.ThreadAbortException: Subproceso anulado.
+   en System.Threading.Thread.AbortInternal()
+   en System.Threading.Thread.Abort(Object stateInfo)
+   en System.Web.HttpResponse.AbortCurrentThread()
+   en System.Web.HttpResponse.End()
+   en BCN.SITIO.Clases.DescargaArchivos.DescargaArchivoBytes(Byte[] contenido, String mimetype, String nombre_archivo, String extension, List`1 cookies) en d:\Blockchain Ninjas\Fuentes\BCN.SITIO\BCN.SITIO\Clases\DescargaArchivos.cs:línea 43
+   en BCN.SITIO.Default.GeneraPasaporte(String numPasaporte, String apellidos, String nombre, String nacionalidad, String fechaNacimiento, String cedulaIdentidad, Char Sexo, String lugarNacimiento, String fechaEmision, String fechaVencimiento) en d:\Blockchain Ninjas\Fuentes\BCN.SITIO\BCN.SITIO\Default.aspx.cs:línea 65
+ERROR 2018-09-23 01:02:01,536  4874ms Default                GeneraPasaporte    - System.Threading.ThreadAbortException: Subproceso anulado.
+   en System.Threading.Thread.AbortInternal()
+   en System.Threading.Thread.Abort(Object stateInfo)
+   en System.Web.HttpResponse.AbortCurrentThread()
+   en System.Web.HttpResponse.End()
+   en BCN.SITIO.Clases.DescargaArchivos.DescargaArchivoBytes(Byte[] contenido, String mimetype, String nombre_archivo, String extension, List`1 cookies) en d:\Blockchain Ninjas\Fuentes\BCN.SITIO\BCN.SITIO\Clases\DescargaArchivos.cs:línea 43
+   en BCN.SITIO.Default.GeneraPasaporte(String numPasaporte, String apellidos, String nombre, String nacionalidad, String fechaNacimiento, String cedulaIdentidad, Char Sexo, String lugarNacimiento, String fechaEmision, String fechaVencimiento) en d:\Blockchain Ninjas\Fuentes\BCN.SITIO\BCN.SITIO\Default.aspx.cs:línea 65
+ERROR 2018-09-23 01:02:47,261  5227ms Default                GeneraPasaporte    - System.Threading.ThreadAbortException: Subproceso anulado.
+   en System.Threading.Thread.AbortInternal()
+   en System.Threading.Thread.Abort(Object stateInfo)
+   en System.Web.HttpResponse.AbortCurrentThread()
+   en System.Web.HttpResponse.End()
+   en BCN.SITIO.Clases.DescargaArchivos.DescargaArchivoBytes(Byte[] contenido, String mimetype, String nombre_archivo, String extension, List`1 cookies) en d:\Blockchain Ninjas\Fuentes\BCN.SITIO\BCN.SITIO\Clases\DescargaArchivos.cs:línea 43
+   en BCN.SITIO.Default.GeneraPasaporte(String numPasaporte, String apellidos, String nombre, String nacionalidad, String fechaNacimiento, String cedulaIdentidad, Char Sexo, String lugarNacimiento, String fechaEmision, String fechaVencimiento) en d:\Blockchain Ninjas\Fuentes\BCN.SITIO\BCN.SITIO\Default.aspx.cs:línea 65
+ERROR 2018-09-23 01:26:47,847  7786ms Default                GeneraPasaporte    - System.Threading.ThreadAbortException: Subproceso anulado.
+   en System.Threading.Thread.AbortInternal()
+   en System.Threading.Thread.Abort(Object stateInfo)
+   en System.Web.HttpResponse.AbortCurrentThread()
+   en System.Web.HttpResponse.End()
+   en BCN.SITIO.Clases.DescargaArchivos.DescargaArchivoBytes(Byte[] contenido, String mimetype, String nombre_archivo, String extension, List`1 cookies) en d:\Blockchain Ninjas\Fuentes\BCN.SITIO\BCN.SITIO\Clases\DescargaArchivos.cs:línea 43
+   en BCN.SITIO.Default.GeneraPasaporte(String numPasaporte, String apellidos, String nombre, String nacionalidad, DateTime fechaNacimiento, String cedulaIdentidad, Char Sexo, String lugarNacimiento, String fechaEmision, DateTime fechaVencimiento, String numeroVerificador1, String numeroVerificador2, String numeroVerificador3, String numeroVerificador4) en d:\Blockchain Ninjas\Fuentes\BCN.SITIO\BCN.SITIO\Default.aspx.cs:línea 97
+ERROR 2018-09-23 01:49:57,304  3600ms Default                GeneraPasaporte    - System.Threading.ThreadAbortException: Subproceso anulado.
+   en System.Threading.Thread.AbortInternal()
+   en System.Threading.Thread.Abort(Object stateInfo)
+   en System.Web.HttpResponse.AbortCurrentThread()
+   en System.Web.HttpResponse.End()
+   en BCN.SITIO.Clases.DescargaArchivos.DescargaArchivoBytes(Byte[] contenido, String mimetype, String nombre_archivo, String extension, List`1 cookies) en d:\Blockchain Ninjas\Fuentes\BCN.SITIO\BCN.SITIO\Clases\DescargaArchivos.cs:línea 43
+   en BCN.SITIO.Default.GeneraPasaporte(String numPasaporte, String apellidos, String nombre, String nacionalidad, DateTime fechaNacimiento, String cedulaIdentidad, Char Sexo, String lugarNacimiento, String fechaEmision, DateTime fechaVencimiento, String numeroVerificador1, String numeroVerificador2, String numeroVerificador3, String numeroVerificador4) en d:\Blockchain Ninjas\Fuentes\BCN.SITIO\BCN.SITIO\Default.aspx.cs:línea 97
+ERROR 2018-09-23 01:56:58,264 35631ms Default                GeneraPasaporte    - System.Threading.ThreadAbortException: Subproceso anulado.
+   en System.Threading.Thread.AbortInternal()
+   en System.Threading.Thread.Abort(Object stateInfo)
+   en System.Web.HttpResponse.AbortCurrentThread()
+   en System.Web.HttpResponse.End()
+   en BCN.SITIO.Clases.DescargaArchivos.DescargaArchivoBytes(Byte[] contenido, String mimetype, String nombre_archivo, String extension, List`1 cookies) en d:\Blockchain Ninjas\Fuentes\BCN.SITIO\BCN.SITIO\Clases\DescargaArchivos.cs:línea 43
+   en BCN.SITIO.Default.GeneraPasaporte(String numPasaporte, String apellidos, String nombre, String nacionalidad, DateTime fechaNacimiento, String cedulaIdentidad, Char Sexo, String lugarNacimiento, String fechaEmision, DateTime fechaVencimiento, String numeroVerificador1, String numeroVerificador2, String numeroVerificador3, String numeroVerificador4) en d:\Blockchain Ninjas\Fuentes\BCN.SITIO\BCN.SITIO\Default.aspx.cs:línea 107
+ERROR 2018-09-23 06:25:43,640 7107723ms Default                GeneraPasaporte    - System.Threading.ThreadAbortException: Subproceso anulado.
+   en System.Threading.Thread.AbortInternal()
+   en System.Threading.Thread.Abort(Object stateInfo)
+   en System.Web.HttpResponse.AbortCurrentThread()
+   en System.Web.HttpResponse.End()
+   en BCN.SITIO.Clases.DescargaArchivos.DescargaArchivoBytes(Byte[] contenido, String mimetype, String nombre_archivo, String extension, List`1 cookies) en D:\Blockchain Ninjas\Fuentes\BCN.SITIO\BCN.SITIO\Clases\DescargaArchivos.cs:línea 43
+   en BCN.SITIO.Default.GeneraPasaporte(String numPasaporte, String apellidos, String nombre, String nacionalidad, DateTime fechaNacimiento, String cedulaIdentidad, Char Sexo, String lugarNacimiento, String fechaEmision, DateTime fechaVencimiento, String numeroVerificador1, String numeroVerificador2, String numeroVerificador3, String numeroVerificador4) en D:\Blockchain Ninjas\Fuentes\BCN.SITIO\BCN.SITIO\Default.aspx.cs:línea 107

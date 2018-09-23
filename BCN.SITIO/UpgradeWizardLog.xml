@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="_UpgradeWizard_Files\UpgradeWizardLog.xslt"?>
+<log>
+  <event action="Analyze" type="Success" name="Assembly References" path="D:\Blockchain Ninjas\Fuentes\BCN.SITIO\BCN.SITIO\BCN.SITIO.csproj" />
+  <event action="Analyze" type="Success" name="Assembly References" path="D:\Blockchain Ninjas\Fuentes\BCN.SITIO\BCN.SITIO\packages.config" />
+  <event action="Analyze" type="Success" name="Http Handlers" path="D:\Blockchain Ninjas\Fuentes\BCN.SITIO\BCN.SITIO\packages.config" />
+  <event action="Analyze" type="Success" name="Handlers (IIS7+)" path="D:\Blockchain Ninjas\Fuentes\BCN.SITIO\BCN.SITIO\packages.config" />
+  <event action="Analyze" type="Success" name="Config Sections" path="D:\Blockchain Ninjas\Fuentes\BCN.SITIO\BCN.SITIO\packages.config" />
+  <event action="Analyze" type="Success" name="Render Extensions" path="D:\Blockchain Ninjas\Fuentes\BCN.SITIO\BCN.SITIO\packages.config" />
+  <event action="Analyze" type="Success" name="Session State Providers" path="D:\Blockchain Ninjas\Fuentes\BCN.SITIO\BCN.SITIO\packages.config" />
+  <event action="Analyze" type="Success" name="packages.config" path="D:\Blockchain Ninjas\Fuentes\BCN.SITIO\BCN.SITIO\packages.config" />
+  <event action="Analyze" type="Success" name="Assembly References" path="D:\Blockchain Ninjas\Fuentes\BCN.SITIO\BCN.SITIO\Web.config" />
+  <event action="Analyze" type="Success" name="Http Handlers" path="D:\Blockchain Ninjas\Fuentes\BCN.SITIO\BCN.SITIO\Web.config" />
+  <event action="Analyze" type="Success" name="Handlers (IIS7+)" path="D:\Blockchain Ninjas\Fuentes\BCN.SITIO\BCN.SITIO\Web.config" />
+  <event action="Analyze" type="Success" name="Config Sections" path="D:\Blockchain Ninjas\Fuentes\BCN.SITIO\BCN.SITIO\Web.config" />
+  <event action="Analyze" type="Success" name="Render Extensions" path="D:\Blockchain Ninjas\Fuentes\BCN.SITIO\BCN.SITIO\Web.config" />
+  <event action="Analyze" type="Success" name="Session State Providers" path="D:\Blockchain Ninjas\Fuentes\BCN.SITIO\BCN.SITIO\Web.config" />
+  <event action="Analyze" type="Success" name="Web.config" path="D:\Blockchain Ninjas\Fuentes\BCN.SITIO\BCN.SITIO\Web.config" />
+  <event action="Analyze" type="Success" name="Assembly References" path="D:\Blockchain Ninjas\Fuentes\BCN.SITIO\BCN.SITIO\Web.Debug.config" />
+  <event action="Analyze" type="Success" name="Http Handlers" path="D:\Blockchain Ninjas\Fuentes\BCN.SITIO\BCN.SITIO\Web.Debug.config" />
+  <event action="Analyze" type="Success" name="Handlers (IIS7+)" path="D:\Blockchain Ninjas\Fuentes\BCN.SITIO\BCN.SITIO\Web.Debug.config" />
+  <event action="Analyze" type="Success" name="Config Sections" path="D:\Blockchain Ninjas\Fuentes\BCN.SITIO\BCN.SITIO\Web.Debug.config" />
+  <event action="Analyze" type="Success" name="Render Extensions" path="D:\Blockchain Ninjas\Fuentes\BCN.SITIO\BCN.SITIO\Web.Debug.config" />
+  <event action="Analyze" type="Success" name="Session State Providers" path="D:\Blockchain Ninjas\Fuentes\BCN.SITIO\BCN.SITIO\Web.Debug.config" />
+  <event action="Analyze" type="Success" name="Web.Debug.config" path="D:\Blockchain Ninjas\Fuentes\BCN.SITIO\BCN.SITIO\Web.Debug.config" />
+  <event action="Analyze" type="Success" name="Assembly References" path="D:\Blockchain Ninjas\Fuentes\BCN.SITIO\BCN.SITIO\Web.Release.config" />
+  <event action="Analyze" type="Success" name="Http Handlers" path="D:\Blockchain Ninjas\Fuentes\BCN.SITIO\BCN.SITIO\Web.Release.config" />
+  <event action="Analyze" type="Success" name="Handlers (IIS7+)" path="D:\Blockchain Ninjas\Fuentes\BCN.SITIO\BCN.SITIO\Web.Release.config" />
+  <event action="Analyze" type="Success" name="Config Sections" path="D:\Blockchain Ninjas\Fuentes\BCN.SITIO\BCN.SITIO\Web.Release.config" />
+  <event action="Analyze" type="Success" name="Render Extensions" path="D:\Blockchain Ninjas\Fuentes\BCN.SITIO\BCN.SITIO\Web.Release.config" />
+  <event action="Analyze" type="Success" name="Session State Providers" path="D:\Blockchain Ninjas\Fuentes\BCN.SITIO\BCN.SITIO\Web.Release.config" />
+  <event action="Analyze" type="Success" name="Web.Release.config" path="D:\Blockchain Ninjas\Fuentes\BCN.SITIO\BCN.SITIO\Web.Release.config" />
+  <event action="Analyze" type="Success" name="BCN.SITIO" path="D:\Blockchain Ninjas\Fuentes\BCN.SITIO\BCN.SITIO\BCN.SITIO.csproj" />
+  <event action="Analyze" type="Success" name="Assembly References" path="D:\Blockchain Ninjas\Fuentes\BCN.SITIO\BCN.DOCS\BCN.DOCS.csproj" />
+  <event action="Analyze" type="Success" name="BCN.DOCS" path="D:\Blockchain Ninjas\Fuentes\BCN.SITIO\BCN.DOCS\BCN.DOCS.csproj" />
+  <event action="Analyze" type="Success" name="BCN.SITIO" path="D:\Blockchain Ninjas\Fuentes\BCN.SITIO\BCN.SITIO.sln" />
+  <event action="Upgrade" type="Success" name="Assembly References" path="D:\Blockchain Ninjas\Fuentes\BCN.SITIO\BCN.DOCS\BCN.DOCS.csproj" />
+  <event action="Upgrade" type="Success" name="BCN.DOCS" path="D:\Blockchain Ninjas\Fuentes\BCN.SITIO\BCN.DOCS\BCN.DOCS.csproj" />
+  <event action="Upgrade" type="Success" name="BCN.SITIO" path="D:\Blockchain Ninjas\Fuentes\BCN.SITIO\BCN.SITIO.sln" />
+</log>
